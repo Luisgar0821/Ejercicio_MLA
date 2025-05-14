@@ -1,0 +1,17 @@
+MLA_100k.jsonlines
+
+venv
+
+classification_report.txt
+gb_classification_report.txt
+gb_product_condition_model.pkl
+gb_scaler.pkl
+logreg_classification_report.txt
+logreg_product_condition_model.pkl
+logreg_scaler.pkl
+scaler.pkl
+product_condition_model.pkl
+
+NewProducts.csv
+products_clean_final.csv
+products_dataset.csv
